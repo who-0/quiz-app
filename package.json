@@ -1,0 +1,19 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "Full Stack (or) MERN Stack for mini quiz app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/who-0/quiz-app.git"
+  },
+  "author": "DaDDy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/who-0/quiz-app/issues"
+  },
+  "homepage": "https://github.com/who-0/quiz-app#readme"
+}
