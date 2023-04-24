@@ -4,6 +4,7 @@
   "description": "Full Stack (or) MERN Stack for mini quiz app",
   "main": "index.js",
   "scripts": {
+    "start":"npm start --prefix client && npm start --prefix server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
