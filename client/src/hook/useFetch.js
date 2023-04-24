@@ -10,7 +10,6 @@ const useFetch = () => {
       const data = res.data;
       setQuiz(data);
       setLoader(false);
-      console.log(data);
     });
   }, []);
   return { loader, quiz };
